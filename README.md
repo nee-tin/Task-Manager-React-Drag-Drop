@@ -1,16 +1,58 @@
-# React + Vite
+ # Task Manager – React + Drag & Drop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive, color-coded Task Manager** built with React and `@hello-pangea/dnd`.  
+Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete tasks, and see your progress persist with **localStorage**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🖼️ Screenshots / Demo
 
-## React Compiler
+### Desktop View
+![Desktop View](assets/desktop.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Mobile View
+![Mobile View](assets/mobile.png)
 
-## Expanding the ESLint configuration
+### Demo GIF
+![Demo](assets/demo.gif)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> 💡 Tip: Place your images/GIFs in an `assets` folder inside your repo.
+
+---
+
+## 🔹 Features
+
+- ✅ Drag & Drop tasks between columns  
+- ✅ Add tasks via input or Enter key  
+- ✅ Delete tasks with the “X” button  
+- ✅ Persistent data using `localStorage`  
+- ✅ Responsive layout for desktop, tablet, and mobile  
+- ✅ Color-coded columns for better readability  
+
+---
+
+## 🛠 Tech Stack
+
+- React (Functional Components + Hooks)  
+- @hello-pangea/dnd (Drag & Drop)  
+- LocalStorage for persistence  
+- Vite as build tool  
+
+---
+
+## ⚡ Installation
+
+1. **Clone the repository:**
+
+```bash
+  git clone https://github.com/nee-tin/Task-Manager-React-Drag-Drop.git
+  cd Task-Manager-React-Drag-Drop
+
+2. **Install dependencies:**
+  npm install
+
+3. **Run the development server:**
+   npm run dev
+
+4. **Open in your browser:**
+   http://localhost:5173
