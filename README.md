@@ -8,13 +8,13 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ## 🖼️ Screenshots / Demo
 
 ### Desktop View
-![Desktop View]src/assets/desktop_view.png
+[Desktop View]/assets/desktop_view.png
 
 ### Mobile View
-![Mobile View]src/assets/mobile_view.jpg
+[Mobile View]/assets/mobile_view.jpg
 
 ### Demo GIF
-![Demo](assets/demo.gif)
+[Demo](assets/demo.gif)
 
 > 💡 Tip: Place your images/GIFs in an `assets` folder inside your repo.
 
