@@ -8,10 +8,10 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ## 🖼️ Screenshots / Demo
 
 ### Desktop View
-![Desktop View](./nee-tin/assets/desktop_view.jpg)
+![Desktop View](https://raw.githubusercontent.com/nee-tin/assets/main/desktop_view.png)
 
 ### Mobile View
-![Mobile](./assets/mobile_view.jpg)
+![Mobile View](https://raw.githubusercontent.com/nee-tin/assets/main/mobile_view.jpg)
 
 ### Demo GIF
 [Demo](assets/demo.gif)
