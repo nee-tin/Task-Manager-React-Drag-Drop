@@ -5,7 +5,7 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 
 ---
 
-## 🖼️ Screenshots / Demo
+## 🖼️ Screenshots / Demo           
 
 ### Desktop View
 ![Desktop View](https://raw.githubusercontent.com/nee-tin/assets/main/desktop_view.png)
@@ -14,7 +14,7 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ![Mobile View](https://raw.githubusercontent.com/nee-tin/assets/main/mobile_view.jpg)
 
 ### Demo GIF
-![Task Demo](https://raw.githubusercontent.com/nee-tin/assets/main/task.gif)
+![Task Demo](https://raw.githubusercontent.com/nee-tin/assets/main/to-gif.mp4)
 
 > 💡 Tip: Place your images/GIFs in an `assets` folder inside your repo.
 
