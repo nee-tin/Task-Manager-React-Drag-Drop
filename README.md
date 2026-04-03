@@ -11,7 +11,7 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ![Desktop View](./nee-tin/assets/desktop_view.jpg)
 
 ### Mobile View
-[Mobile View]./nee-tin/assets/mobile_view.jpg
+![Mobile](./assets/mobile_view.jpg)
 
 ### Demo GIF
 [Demo](assets/demo.gif)
