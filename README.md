@@ -8,10 +8,10 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ## 🖼️ Screenshots / Demo
 
 ### Desktop View
-![Desktop View]src/assets/desktop_view.png
-https://github.com/nee-tin/Task-Manager-React-Drag-Drop/blob/e328d38b8799a73af146201c49b4ef822d5b976f/src/assets/desktop_view.png
+![Desktop View](./assets/desktop_view.jpg)
+
 ### Mobile View
-[Mobile View]/assets/mobile_view.jpg
+[Mobile View]./assets/mobile_view.jpg
 
 ### Demo GIF
 [Demo](assets/demo.gif)
