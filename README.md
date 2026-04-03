@@ -8,7 +8,7 @@ Drag tasks between **TODO**, **INPROGRESS**, and **DONE**, add new tasks, delete
 ## 🖼️ Screenshots / Demo
 
 ### Desktop View
-[Desktop View]/assets/desktop_view.png
+![Desktop View]src/assets/desktop_view.png
 
 ### Mobile View
 [Mobile View]/assets/mobile_view.jpg
