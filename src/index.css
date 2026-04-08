@@ -1,8 +1,9 @@
 body {
-  background-color: rgb(129, 129, 143);
+  background-color: rgb(223, 223, 235);
   margin: 0; /* removes default body margin */
   min-height: 100vh; /* ensures body takes full viewport height */
 }
+
 
 input {
   border: 1px solid #ccc;
