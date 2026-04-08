@@ -1,7 +1,7 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
-  padding: 20px;
+  background-color: rgb(129, 129, 143);
+  margin: 0; /* removes default body margin */
+  min-height: 100vh; /* ensures body takes full viewport height */
 }
 
 input {
